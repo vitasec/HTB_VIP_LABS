@@ -1,8 +1,8 @@
-# 🎯 HackTheBox Academy Badges
+# 🎯 HackTheBox Labs  Machines
 
 <div align="center">
 
-### My Collected Badges
+### My Pwned  Machines
 <img src="Networked.png" width="100" title="Networked">
 
 
